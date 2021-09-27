@@ -13,31 +13,10 @@ The language of choice does not have to be English when training the chatbot.<br
 !pip install chatterbot_corpus
 ```
 
-    Requirement already satisfied: chatterbot in /usr/local/lib/python3.7/dist-packages (1.0.8)
-    Requirement already satisfied: sqlalchemy<1.4,>=1.3 in /usr/local/lib/python3.7/dist-packages (from chatterbot) (1.3.24)
-    Requirement already satisfied: python-dateutil<2.9,>=2.8 in /usr/local/lib/python3.7/dist-packages (from chatterbot) (2.8.2)
-    Requirement already satisfied: mathparse<0.2,>=0.1 in /usr/local/lib/python3.7/dist-packages (from chatterbot) (0.1.2)
-    Requirement already satisfied: pytz in /usr/local/lib/python3.7/dist-packages (from chatterbot) (2018.9)
-    Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.7/dist-packages (from python-dateutil<2.9,>=2.8->chatterbot) (1.15.0)
-    Requirement already satisfied: chatterbot_corpus in /usr/local/lib/python3.7/dist-packages (1.2.0)
-    Requirement already satisfied: PyYAML<4.0,>=3.12 in /usr/local/lib/python3.7/dist-packages (from chatterbot_corpus) (3.13)
-    
-
-
 ```python
 !pip install --upgrade chatterbot
 !pip install --upgrade chatterbot_corpus
-```
-
-    Requirement already satisfied: chatterbot in /usr/local/lib/python3.7/dist-packages (1.0.8)
-    Requirement already satisfied: python-dateutil<2.9,>=2.8 in /usr/local/lib/python3.7/dist-packages (from chatterbot) (2.8.2)
-    Requirement already satisfied: sqlalchemy<1.4,>=1.3 in /usr/local/lib/python3.7/dist-packages (from chatterbot) (1.3.24)
-    Requirement already satisfied: pytz in /usr/local/lib/python3.7/dist-packages (from chatterbot) (2018.9)
-    Requirement already satisfied: mathparse<0.2,>=0.1 in /usr/local/lib/python3.7/dist-packages (from chatterbot) (0.1.2)
-    Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.7/dist-packages (from python-dateutil<2.9,>=2.8->chatterbot) (1.15.0)
-    Requirement already satisfied: chatterbot_corpus in /usr/local/lib/python3.7/dist-packages (1.2.0)
-    Requirement already satisfied: PyYAML<4.0,>=3.12 in /usr/local/lib/python3.7/dist-packages (from chatterbot_corpus) (3.13)
-    
+``` 
 
 ## 2.Import chatterbot
 
