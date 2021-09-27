@@ -1,4 +1,4 @@
-# ChatBot Program
+# Simple ChatBot Program
 ***
 Welcome! This is a very short and simple chatbot program I've written.
 
