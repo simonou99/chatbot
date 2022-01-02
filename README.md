@@ -1,6 +1,6 @@
 # Simple ChatBot Program
 ***
-Welcome! This is a very short and simple chatbot program I've written.
+Welcome! This is a short and simple chatbot program I've written.
 
 The program uses the [ChatterBot](https://chatterbot.readthedocs.io/en/stable/index.html) package and we will cover 2 options for training.<br>
 The language of choice does not have to be English when training the chatbot.<br> However, in this case we will cover this program with English-based corpus data for instruction ease.
